@@ -2,6 +2,11 @@
 ComfyUI custom nodes.
 For now just 2 nodes.
 
+Lora Helper
+
+<img width="1023" height="680" alt="Wextra_Lora_Helper" src="https://github.com/user-attachments/assets/1f947e7b-12e5-472d-a432-ea1145f9cb95" />
+
+
 EXTRACT LORA NAME
 I personally use this node to extract only the Lora name from the path.
 
