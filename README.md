@@ -14,4 +14,11 @@ EXTRACT TAG FROM LIST
 Giving in input the Lora's tag list, you can choose by index the single tag to extract in output to easily insert in the prompt.
 There is also a Console Log output to easily see, and so choose, the complete tag list divided by indexes.
 
+🤝 Acknowledgements
+
+This project is built upon the following excellent open-source projects:
+
+[ComfyUI-Lora-Auto-Trigger-Words](https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words)
+
+
 Hope could be usefull for you as it is for me.
